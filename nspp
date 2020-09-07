@@ -1,0 +1,688 @@
+<html>
+<html lang="en">
+<title>Nantucket Shark Protection Program</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    body {
+        font-family: "Lato", sans-serif
+    }
+
+    .mySlides {
+        display: none
+    }
+</style>
+
+<body>
+
+    <!-- Navbar -->
+    <a href="Blank" target="_blank">Blank</a>
+    <div class="w3-top">
+        <div class="w3-bar w3-black w3-card">
+            <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+            <a href="#Nantucket Shark Protection Program" class="w3-bar-item w3-button w3-padding-large">NANTUCKET SHARK PROTECTION PROGRAM</a>
+            <a href="#Conservation" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONSERVATION</a>
+            <a href="#Shark Fishing Equipment" class="w3-bar-item w3-button w3-padding-large w3-hide-small">SHARK FISHING EQUIPMENT</a>
+            <a href="#How to Catch Sharks" class="w3-bar-item w3-button w3-padding-large w3-hide-small">HOW TO CATCH SHARKS</a>
+            <a href="#How to get involved" class="w3-bar-item w3-button w3-padding-large w3-hide-small">HOW TO GET INVOLVED</a>
+             <a href="#Local Ecosystem Chart" class="w3-bar-item w3-button w3-padding-large w3-hide-small">LOCAL ECOSYSTEM CHART</a>
+            <a href="#Interactive Tagging Map" class="w3-bar-item w3-button w3-padding-large w3-hide-small">INTERACTIVE TAGGING MAP</a>
+            <a href="#Fundraiser Apparel" class="w3-bar-item w3-button w3-padding-large w3-hide-small">FUNDRAISER APPAREL</a>
+            <div class="w3-dropdown-hover w3-hide-small">
+                <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="w3-dropdown-content w3-bar-block w3-card-4">
+                    <a href="#Members" class="w3-bar-item w3-button">MEMBERS</a>
+                    <a href="#About" class="w3-bar-item w3-button">ABOUT</a>
+                    <a href="#Contact" class="w3-bar-item w3-button">CONTACT</a>
+                </div>
+            </div>
+            <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
+        </div>
+    </div>
+
+    <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+    <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+        <a href="#Nantucket Shark Protection Program" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">NANTUCKET SHARK PROTECTION PROGRAM</a>
+        <a href="#Conservation" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">CONSERVATION</a>
+        <a href="#Shark Fishing Equipment" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">SHARK FISHING EQUIPMENT</a>
+        <a href="#How to Catch Sharks" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">HOW TO CATCH SHARKS</a>
+        <a href="#Local Ecosystem Chart" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">LOCAL ECOSYSTEM CHART</a>
+        
+        <a href="#Interactive Tagging Maps" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">INTERACTIVE TAGGING MAPS</a>
+        <a href="#Videos" class="w3-bar-item w3-button w3-padding-large w3-hide-small">VIDEOS</a>
+        <a href="#Gallery" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">GALLERY</a>
+        <a href="#About" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">ABOUT</a>
+        <a href="#Contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">CONTACT</a>
+    </div>
+
+    <!-- Page content -->
+    <div class="w3-content" style="max-width:2000px;margin-top:46px">
+
+        <!-- Automatic Slideshow Images -->
+        <div class="mySlides w3-display-container w3-center">
+            <img src="https://live.staticflickr.com/65535/47836691571_26a2897284_k.jpg" style="width:100%">
+            <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+                <h3>Carcharhinus plumbeus</h3>
+                <p><b>"Sandbar Shark"</b>
+                </p>
+            </div>
+        </div>
+        <div class="mySlides w3-display-container w3-center">
+            <img src="https://live.staticflickr.com/65535/47836692221_cd4718e1d4_k.jpg" style="width:100%">
+            <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+                <h3>West Palm Beach, Florida</h3>
+                <p><b>Lemon Shark</b>
+                </p>
+            </div>
+        </div>
+        <div class="mySlides w3-display-container w3-center">
+            <img src="https://live.staticflickr.com/65535/47047169844_6d2c639be0_k.jpg" style="width:100%">
+            <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+                <h3>Nantucket, Massachusetts</h3>
+                <p><b>Safe catch and release procedures</b>
+                </p>
+            </div>
+        </div>
+        <div class="mySlides w3-display-container w3-center">
+            <img src="https://live.staticflickr.com/65535/48496860296_37936a1303_z.jpg" style="width:100%">
+            <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+                <h3>The Bonito Bar, Madaket</h3>
+                <p><b>Boat Fishing</b>
+                </p>
+            </div>
+        </div>
+        <div class="mySlides w3-display-container w3-center">
+            <img src="https://live.staticflickr.com/65535/48496860676_58421c3886_z.jpg" style="width:100%">
+            <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+                <h3>Gathering Information</h3>
+                <p><b>A Crucial Step in Tagging</b>
+                </p>
+            </div>
+        </div>
+        <div class="mySlides w3-display-container w3-center">
+            <img src="https://live.staticflickr.com/65535/48496861716_3f2cdcab54_z.jpg" style="width:100%">
+            <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+                <h3>Placing the Dart Tag</h3>
+                <p><b>Using a Handmade Tagging Pole</b>
+                </p>
+            </div>
+        </div>
+
+        <!-- NANTUCKET SHARK PROTECTION PROGRAM" -->
+        <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="Nantucket Shark Protection Program">
+            <h2 class="w3-wide">Nantucket Shark Protection Program</h2>
+            <p class="w3-opacity"><i>2019</i>
+            </p>
+            <p class="w3-justify">The Nantucket Shark Protection Program (NSPP) is an organization created by a group of young students on Nantucket Island, Massachusetts, who are striving to make a difference in the both the local and international protection of Shark
+                species. In recent years, worldwide marine ecosystems have begun to suffer and populations sizes begin to dwindle. The NSPP is a non-profit, volunteer based organization, which is made up of Nantucket locals ranging from high school
+                age to adults. Using tags by the National Oceanographic and Atmospheric Administration (NOAA), we are setting out to gather information and various details of the sharks of the Northeast Atlantic, but most common to the inshore,
+                the Sandbar/Brown Shark. Countless shark species face dangers ranging from poaching and overfishing to climate change, and the NSPP is setting out this summer to yield a better fate for these magnificent creatures.
+            </p>
+            <div class="w3-row w3-padding-32">
+                <img src="https://live.staticflickr.com/65535/48497030862_24e999d521_z.jpg" style="width:100%">
+
+                <!-- Conservation -->
+                <div class="w3-black" id="Conservation">
+                    <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="Conservation">
+                        <h2 class="w3-wide">Conservation</h2>
+                        <p class="w3-opacity"><i>It's time for a change</i>
+                        </p>
+                        <p class="w3-justify">Both locally and internationally, our oceans and our planet have become threatened by the implications of climate change and the actions of humans. We have already seen a vast biodiversity loss on the land and in the ocean,
+                            and this happens around the globe. This is a macro-scale threat to our beloved oceans; each individual, however, can strive to make a change in spreading awareness or aiding small bits of reform. One can simply pick
+                            up that empty soda cans on the side of the road, or that floating straw in the ocean, or that napkin that just flew away, and in these minute steps we see vast beneficial effects. If each individual can pick up one
+                            piece of trash a day, the results will profoundly halt the harm we have imposed upon our environment. Inspire those around you. Strive for a future.</p>
+                        <div class="w3-row w3-padding-32">
+                            <img src="https://live.staticflickr.com/65535/48496861351_e96dcf3f57_z.jpg" style="width:100%">
+
+
+                            <!-- Shark Fising Equipment -->
+                            <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="Shark Fishing Equipment">
+                                <h2 class="w3-wide">Shark Fishing Equipment</h2>
+                                <p class="w3-opacity"><i>A guide to becoming a shark angler</i>
+                                </p>
+                                <p class="w3-justify">When being introduced into the world of shark fishing, it is easy to be overwhelmed at the various options, prices, and dangers associated with it. But an all around rod and reel outfit that will cover most species
+                                    and applications can actually be relatively cheap and affordable. There are several key things to consider and purchase in the art of shark fishing, and several areas for individual choice.</p>
+                                <div class="w3-row w3-padding-32">
+                                    <p class="w3-opacity"><i>Rod and Reel Outfit</i>
+                                    </p>
+                                    <p class="w3-justify">When deciding which rod and reel would best fit your purpose as a shark fisherman, a few factors must be taken into account. These include the type of shark you are going after, the size, the location you will
+                                        fish, the rigs/bait you will fish, the lifespan you would like it to last, and of course, lastly, your budget. In general, if you are pursuing a more aggressive species, pursuing a larger species, casting
+                                        greater distances(surfcasting), or casting heavier baits/rigs, I would advise you to beef up your reel and rod choice. For a Northeast Inshore surf casting shark combo, I would recommend a 20000 size Shimano,
+                                        a 8000 Penn, or a 8000 size Daiwa reel paired with a heavy/extra-heavy, fast action, rod of at least 12 feet(and no more than 15 feet). In general, if you are pursuing a smaller or more docile species of
+                                        shark, fishing from a boat or casting minimal distances, using lighter bait/tackle, you would probably do better with a lighter reel choice and much shorter rod choice. For the deemed occupation, a Shimano
+                                        reel of the 8000-10000 would suffice, this being a Penn or Daiwa of about 6000, and would work alongside a heavy/extra heavy, fast action, 6’-7’, rod, that preferably has a gimbal in the rod butt. Although
+                                        these are just suggestions to consider, the ultimate skill and experience of the fisherman must also be taken into account, for a beginner angler may want beefier tackle than that of an experienced, hardcore
+                                        angler. Additionally, for the reel choice I would recommend a reel that is built tough enough to exert at least 30 pounds of drag and hold at least 300 yards of your choice of line, and have an advanced
+                                        enough drag system to sustain high pressures and heat under stress. For a beginner surfcaster combo for Nantucket, I would recommend a Shimano Spheros 20000 reel and a ugly Stik Bigwater 15’ rod.</p>
+                                    <div class="w3-row w3-padding-32">
+                                        <p class="w3-opacity"><i>Bait Rig</i>
+                                        </p>
+                                        <p class="w3-justify">If you already have your shark combo, or have purchased one, then the next step in your procession to catching sharks is acquiring your own bait rigs. While many tackle shops and online fishing department
+                                            stores carry premade shark rigs, making your own rigs can be relatively simple, and allow for customization on behalf of the angler. For making your own rig there are basically three parts: a circle
+                                            hook, attached with a haywire twist to single strand stainless steel wire, then attached with a haywire twist to a barrel swivel, attached to the other end of this barrel swivel is a thimble and crimp
+                                            to connect the monofilament line and a simple fishing clip of any kind to attach your weight to, then this monofilament is connected to another thimble and crimped to a barrel swivel, and to this your
+                                            braided line is tied.</p>
+                                        <div class="w3-row w3-padding-32">
+                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/sX6F83YInAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                                            <p class="w3-justify">Shown above is a typical Northeast Surfcasting Sandbar Shark bait rig. The items in the video above are 1 12/0 Mustad Demon Point circle hook, about 24” 240 pound American Fishing Wire Tooth Proof Stainless
+                                                Steel Single Strand Leader size 15, 3 Riptail Rolling Barrel Swivel 350 pound strength (6/0), 2 American Fishing Wire Stainless Steel Thimbles size 2, 2 Aluminum Double Barrel Crimp Sleeves 1.7 mm
+                                                by 18 mm, about 60” of Berkley Trilene Big Game Mono Leaders 250 pound test, 1 simple fishing clip or wire clip of any kind, and a pyramid lead weight of 6 ounces. While there are some variations
+                                                regarding different fisherman’s styles, locations, sharks, etc., this list shows the basic components and general sizes of needed supplies.</p>
+                                            <p class="w3-opacity"><i>Terminal Tackle</i>
+                                            </p>
+                                            <p class="w3-justify">When it comes to gear and terminal tackle in shark fishing, there are a few essential items to ensure safe catch and release procedures, including in the items needed for the rig. First a must have is
+                                                braided line on one’s reel, preferably Power Pro Spectra Fiber Braided Fishing Line at least 50 pound test and 350 yards, and one would need a crimper to make the rigs, a crimper such as a Penn Leader
+                                                Crimp with 0.1 mm-2.2 mm jaw sleeves would work with the rig above. To release the shark, one needs some form of a dehooking device such as any dehooker tool or powerful pliers, and a wire cutting
+                                                tool capable of cutting the hook or atleast the wire. And then the only other equipment needed, is equipment that the average fisherman would likely have, such as fillet knives, sand spikes, and
+                                                a tail rope for beginners.</p>
+                                            <div class="w3-row w3-padding-32">
+
+
+                                                <!--How to Catch Sharks -->
+                                                <div class="w3-white" id="How to Catch Sharks">
+                                                    <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+                                                        <h2 class="w3-wide">How to Catch Sharks</h2>
+                                                        <p class="w3-opacity"><i>How to have success with your Shark outift!</i>
+                                                        </p>
+                                                        <p class="w3-justify">There isn’t one right way or easy way to catch sharks. Sharks are among the most elusive and challenging species to pursue on rod and reel, but the outcome can be well worth the effort. In
+                                                            order to successfully catch sharks, conditions must align so that you are using the right bait, the right gear for the circumstance, the right time of day, the right location, and the
+                                                            right techniques. It's nearly impossible to generalize into one script just simply how to catch sharks, but here are a few things to look for. In almost all cases, the fresher the bait
+                                                            one can catch and use the better, and it's even better if its the local prey of sharks in that location. For boat shark fishing, if one is targeting more pelagic species such as Mako
+                                                            Sharks or Thresher Sharks, chumming can be an extremely effective means to catch these sharks. For inshore shark species such as Sandbar Sharks, one would want to drift baits along the
+                                                            bottom and keep baits down low there they dwell. For almost all species, moving water and currents are always a hot spot for sharks to hangout, such as inlets or heavy surf. On Nantucket,
+                                                            some of my favorite surfcasting spots for Sandbar Sharks include areas where there are deeper drop offs and stronger currents, such as Great Point Light and Low Beach. The Southeast corner
+                                                            of the Island features stronger currents and deeper waters than much of the rest of the island, which makes it a prime spot for the Sandbar Sharks to hangout. In areas with huge drop
+                                                            offs, I generally cast my baits out only 15 yards or so and it can get the job done. In areas with shallow sandbars and surf, I tend to paddle my baits out anywhere from 50 yards to 150
+                                                            yards out. But these sharks are so common, that they can be found just about anywhere on the Island, and I’ve fairly had my fair share of accidental shark encounters throughout the Island.
+                                                            In terms of actually catching and landing sharks, once the bait is cast out and the rod is placed in a older of some sort, the drag should be loosened near all the way so that the shakr
+                                                            cannot feel any tension when it picks up the bait. When the shark picks up the bait and the drag starts running, one must wait about 30 seconds for the shark to eat the bait, and at this
+                                                            moment there is no need to dramatically set the hook and yank the rod back. Instead, one should lower the rod tip and tighten the drag, and once you feel the tension lift the rod tip
+                                                            up so that the tension is secure, and the fight is on! Once the shark approaches near the beach, someone must go down towards the water's edge to grab the monofilament leader and grab
+                                                            the tail of the shark, to drag it up a bit onto the sand, but MAKE SURE TO KEEP THE SHARK SUBMERGED IN THE WATER. Once here, the angler must act quickly and efficiently to unhook or cut
+                                                            the leader of the shark and ensure a safe revival. One should strive to keep the shark of the water for no more than one minute, and once one is ready to release the shark, they need
+                                                            to drag it by the tail into deeper water and turn it around so it’s facing out towards the sea, and hold it/push it forward until it can swim strongly.</p>
+                                                        <div class="w3-row w3-padding-32">
+
+                                                            <img src="https://live.staticflickr.com/65535/48497029462_d09f5d556b_z.jpg" style="width:100%">
+                                                            <!--How to get involved -->
+                                                            <div class="w3-white" id="How to get involved">
+                                                                <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+                                                                    <h2 class="w3-wide">How to Get Involved</h2>
+                                                                    <p class="w3-opacity"><i>Learn how to make a difference</i>
+                                                                    </p>
+                                                                    <p class="w3-justify">It seems like a daunting task, but it is actually quite simple to make a change in your own local marine ecosystem and become an official shark tagger. As long as one is an experienced
+                                                                        angler who has had practice with catching sharks and is confident, there are very minimal restrictions on becoming a tagger. Even age becomes a less important factor in the
+                                                                        process of getting shark tags and joining a shark tagging program. A great organization to become a volunteer tagger in is the NOAA(National Oceanic and Atmospheric Administration),
+                                                                        more specifically, their Apex Predator Program. By tagging sharks under this program, you are giving data and crucial information to further their research and studies of
+                                                                        shark species. To request tags, one simply needs to write an email to shark recap@noaa.gov, or call 877-826-2612. For more information one can visit the website below. But
+                                                                        apart from tagging sharks, everyone can help insure a better and more promising future for our local marine ecosystems, through various means, such as collecting trash, practicing
+                                                                        safe catch and release procedures, and spreading conservation awareness to others.</p>
+                                                                    <div class="w3-row w3-padding-32"></div>
+                                                                    <p><a href="https://www.nefsc.noaa.gov/nefsc/Narragansett/sharks/">Visit NOAA Apex Predator Program</a>
+                                                                    </p>
+                                                                    
+                                                                      <!--Local Ecosystem Chart -->
+                                                            <div class="w3-white" id="Local Ecosystem Chart">
+                                                                <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+                                                                    <h2 class="w3-wide">Local Ecosystem Chart</h2>
+                                                                    <p class="w3-opacity"><i>Information About our Precious Ecosystem</i>
+                                                                    </p>
+                                                            
+                                                                    <img src="https://live.staticflickr.com/65535/50280384537_2654fc685a_h.jpg" style="width:100%">
+                                                                     <img src="https://live.staticflickr.com/65535/50279541893_96abd917b0_b.jpg" style="width:100%">
+                                                                      <img src="https://live.staticflickr.com/65535/50280224951_f6e2496936_b.jpg" style="width:100%">
+                                                                       <img src="https://live.staticflickr.com/65535/50279541713_f556e4999a_b.jpg" style="width:100%">
+                                                                        <img src="https://live.staticflickr.com/65535/50280384452_079f05e07f_b.jpg" style="width:100%">
+                                                                    <div class="w3-row w3-padding-32"></div>
+                                                                    <p>                                    </p>
+                                                                    <img src="https://live.staticflickr.com/65535/48497030577_0777dbac3c_z.jpg" style="width:100%">
+
+                                                                    <!--Interactive Tagging Map -->
+                                                                    <div class="w3-white" id="Interactive Tagging Map">
+                                                                        <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+                                                                            <h2 class="w3-wide">Interactive Tagging Map</h2>
+                                                                            <p class="w3-opacity"><i>Our recent shark tagging locations</i>
+                                                                            </p>
+
+                                                                            <head>
+                                                                                <style>
+                                                                                    #map {
+                                                                                        height: 400px;
+                                                                                        width: 100%;
+                                                                                </style>
+                                                                            </head>
+
+                                                                            <body>
+
+                                                                                <div id="map"></div>
+                                                                                <script>
+                                                                                    function initMap() {
+
+                                                                                        var uluru = {
+                                                                                            lat: 41.3887306,
+                                                                                            lng: -70.0458486
+                                                                                        };
+                                                                                        var first = {
+                                                                                            lat: 41.4,
+                                                                                            lng: -70.1
+                                                                                        };
+                                                                                        var second = {
+                                                                                            lat: 41.2,
+                                                                                            lng: -70.2
+                                                                                        };
+                                                                                        var third = {
+                                                                                            lat: 41.26666667,
+                                                                                            lng: -70.25
+                                                                                        }
+                                                                                        var fourth = {
+                                                                                            lat: 41.3,
+                                                                                            lng: -70.4
+                                                                                        };
+                                                                                        var fourth = {
+                                                                                            lat: 41.2,
+                                                                                            lng: -70.3
+                                                                                        };
+                                                                                        var fourth = {
+                                                                                            lat: 41.2,
+                                                                                            lng: -70.3
+                                                                                        };
+                                                                                        var fourth = {
+                                                                                            lat: 41.2,
+                                                                                            lng: -70.3
+                                                                                        };
+                                                                                        var fourth = {
+                                                                                            lat: 41.2,
+                                                                                            lng: -70.3
+                                                                                        };
+                                                                                        var map = new google.maps.Map(
+                                                                                            document.getElementById('map'), {
+                                                                                                zoom: 4,
+                                                                                                center: uluru
+                                                                                            });
+
+                                                                                        var marker = new google.maps.Marker({
+                                                                                            position: uluru,
+                                                                                            map: map
+                                                                                        });
+                                                                                        var marker = new google.maps.Marker({
+                                                                                            position: first,
+                                                                                            map: map
+                                                                                        });
+                                                                                        var marker = new google.maps.Marker({
+                                                                                            position: second,
+                                                                                            map: map
+                                                                                        });
+                                                                                        var marker = new google.maps.Marker({
+                                                                                            position: third,
+                                                                                            map: map
+                                                                                        });
+                                                                                        var marker = new google.maps.Marker({
+                                                                                            position: fourth,
+                                                                                            map: map
+                                                                                        });
+                                                                                    }
+                                                                                </script>
+                                                                                <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBc1idWvW9ks4LajDKQpEAX_mnyYAh5J6E&callback=initMap">
+
+                                                                                </script>
+                                                                                <!--Videos -->
+                                                                                <div class="w3-white" id="Fundraiser Apparel">
+                                                                                    <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="F">
+                                                                                        <h2 class="w3-wide">Fundraiser Apparel</h2>
+                                                                                        <p class="w3-opacity"><i></i>
+                                                                                        </p>
+                                                                                        <p class="w3-justify">We are proud to announce that our brand new NSPP short-sleeve shirts are now available for purhcase! With 100% of our proceeds and earnings going to the research organization "Ocearch",
+                                                                                            we are striving to spread awareness and donate enough money to marine research to make a difference. To purchase a shirt, all one must do is email
+                                                                                            nsppconnect@gmail.com with their size, general information, and we can discuss the logistics of payment since sadly we are cash only. For only $15
+                                                                                            and with limited stock, buy away!</p>
+
+                                                                                        <img src="https://live.staticflickr.com/65535/48433804072_a72c6559a2_z.jpg" alt="Paris" style="width:100%" class="w3-hover-opacity">
+                                                                                        <img src="https://live.staticflickr.com/65535/48433658401_4ff15576e9_z.jpg" alt="Paris" style="width:100%" class="w3-hover-opacity">
+                                                                                        <img src="https://live.staticflickr.com/65535/48808726218_0048eb8879_z.jpg" alt="Paris" style="width:100%" class="w3-hover-opacity">
+                                                                                    </p>
+                                                                                        <p class="w3-justify">Thank you to all who contributed to this great cause!</p>
+                                                                                    
+                                                                                        <div class="w3-row w3-padding-32">
+
+                                                                                            <!--More -->
+                                                                                            <div class="w3-black" id="Members">
+                                                                                                <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+                                                                                                    <h2 class="w3-wide">Members</h2>
+                                                                                                    <p class="w3-justify">Meet our members and staff!</p>
+                                                                                                    <div class="w3-row w3-padding-32">
+
+                                                                                                        <div class="w3-third w3-margin-bottom">
+                                                                                                            <img src="https://live.staticflickr.com/65535/48493898167_5477510ccf_z.jpg" alt="15' Ugly Stick" style="width:100%" class="w3-hover-opacity">
+                                                                                                            <div class="w3-container w3-white">
+                                                                                                                <p><b>Lucas Bulczynski</b>
+                                                                                                                </p>
+                                                                                                                <p class="w3-opacity">Founder and President</p>
+
+
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                        <div class="w3-third w3-margin-bottom">
+                                                                                                            <img src="https://live.staticflickr.com/65535/48493897912_219d440a97_z.jpg" alt="Revival is key" style="width:100%" class="w3-hover-opacity">
+                                                                                                            <div class="w3-container w3-white">
+                                                                                                                <p><b>Charlie Clarke</b>
+                                                                                                                </p>
+                                                                                                                <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                        <div class="w3-third w3-margin-bottom">
+                                                                                                            <img src="https://live.staticflickr.com/65535/48493745231_f0732da848_z.jpg" alt="Using a tail rope" style="width:100%" class="w3-hover-opacity">
+                                                                                                            <div class="w3-container w3-white">
+                                                                                                                <p><b>Henri Boulerice</b>
+                                                                                                                </p>
+                                                                                                                <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+
+                                                                                            <div class="w3-third w3-margin-bottom">
+                                                                                                <img src="https://live.staticflickr.com/65535/48668495191_8e41bacde7_z.jpg" alt="Lemon Shark" style="width:100%" class="w3-hover-opacity">
+                                                                                                <div class="w3-container w3-white">
+                                                                                                    <p><b>Jeffery Daume</b>
+                                                                                                    </p>
+                                                                                                    <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="w3-third w3-margin-bottom">
+                                                                                                <img src="https://live.staticflickr.com/65535/48493728591_bd4b11553c_z.jpg" alt="Paris" style="width:100%" class="w3-hover-opacity">
+                                                                                                <div class="w3-container w3-white">
+                                                                                                    <p><b>Dawson Cunningham</b>
+                                                                                                    </p>
+                                                                                                    <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="w3-third w3-margin-bottom">
+                                                                                                <img src="https://live.staticflickr.com/65535/48493727921_979f438c79_z.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
+                                                                                                <div class="w3-container w3-white">
+                                                                                                    <p><b>Daniel Lyden</b>
+                                                                                                    </p>
+                                                                                                    <p class="w3-opacity">Research Director and Vice President</p>
+
+
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+
+                                                                                <div class="w3-third w3-margin-bottom">
+                                                                                    <img src="https://live.staticflickr.com/65535/48523844097_74541682f4_z.jpg" alt="New York" style="width:100%" class="w3-hover-opacity">
+                                                                                    <div class="w3-container w3-white">
+                                                                                        <p><b>Kai Ottani</b>
+                                                                                        </p>
+                                                                                        <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="w3-third w3-margin-bottom">
+                                                                                    <img src="https://live.staticflickr.com/65535/48493727816_b6a55a45c3_z.jpg" alt="Paris" style="width:100%" class="w3-hover-opacity">
+                                                                                    <div class="w3-container w3-white">
+                                                                                        <p><b>Reed Vanacore</b>
+                                                                                        </p>
+                                                                                        <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="w3-third w3-margin-bottom">
+                                                                                    <img src="https://live.staticflickr.com/65535/48668495806_7d74bb7ff8_z.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
+                                                                                    <div class="w3-container w3-white">
+                                                                                        <p><b>Liam Caroll</b>
+                                                                                        </p>
+                                                                                        <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                                                    </div>
+                                                                                </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="w3-third w3-margin-bottom">
+                                                                    <img src="https://live.staticflickr.com/65535/48668650137_d5745e2a8e_z.jpg" alt="15' Ugly Stick" style="width:100%" class="w3-hover-opacity">
+                                                                    <div class="w3-container w3-white">
+                                                                        <p><b>Will Halik</b>
+                                                                        </p>
+                                                                        <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                                    </div>
+                                                                </div>
+                                                                <div class="w3-third w3-margin-bottom">
+                                                                    <img src="https://live.staticflickr.com/65535/48493728816_42ca82e116_z.jpg" alt="Revival is key" style="width:100%" class="w3-hover-opacity">
+                                                                    <div class="w3-container w3-white">
+                                                                        <p><b>Jack Glowacki</b>
+                                                                        </p>
+                                                                        <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                                    </div>
+                                                                </div>
+                                                                <div class="w3-third w3-margin-bottom">
+                                                                    <img src="https://live.staticflickr.com/65535/48570499451_9fea361fc6_z.jpg" alt="Using a tail rope" style="width:100%" class="w3-hover-opacity">
+                                                                    <div class="w3-container w3-white">
+                                                                        <p><b>Mia Kamen</b>
+                                                                        </p>
+                                                                        <p class="w3-opacity">Public Relations Manager</p>
+
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="w3-third w3-margin-bottom">
+                                                        <img src="https://live.staticflickr.com/65535/48523844612_cff248488e_z.jpg" alt="Lemon Shark" style="width:100%" class="w3-hover-opacity">
+                                                        <div class="w3-container w3-white">
+                                                            <p><b>Alex Johnson</b>
+                                                            </p>
+                                                            <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="w3-third w3-margin-bottom">
+                                                        <img src="https://live.staticflickr.com/65535/48668149918_37743990bf_z.jpg" alt="Paris" style="width:100%" class="w3-hover-opacity">
+                                                        <div class="w3-container w3-white">
+                                                            <p><b>Luke Johnson</b>
+                                                            </p>
+                                                            <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="w3-third w3-margin-bottom">
+                                                        <img src="https://live.staticflickr.com/65535/48493897022_e8aea1b5ae_z.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
+                                                        <div class="w3-container w3-white">
+                                                            <p><b>Michael Sarnie</b>
+                                                            </p>
+                                                            <p class="w3-opacity">Assistant tagger</p>
+
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="w3-third w3-margin-bottom">
+                                            <img src="https://live.staticflickr.com/65535/48493728301_ba578dac8c_z.jpg" alt="New York" style="width:100%" class="w3-hover-opacity">
+                                            <div class="w3-container w3-white">
+                                                <p><b>Tyler Wheeler</b>
+                                                </p>
+                                                <p class="w3-opacity">Assistant tagger</p>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="w3-third w3-margin-bottom">
+                                            <img src="https://live.staticflickr.com/65535/48668494986_c02fbe82a0_z.jpg" alt="Paris" style="width:100%" class="w3-hover-opacity">
+                                            <div class="w3-container w3-white">
+                                                <p><b>Ben Murphy</b>
+                                                </p>
+                                                <p class="w3-opacity">Assistant tagger</p>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="w3-third w3-margin-bottom">
+                                            <img src="https://live.staticflickr.com/65535/48493914802_371bdf146f_z.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
+                                            <div class="w3-container w3-white">
+                                                <p><b>Bryce Cadrian</b>
+                                                </p>
+                                                <p class="w3-opacity">Assistant tagger</p>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="w3-third w3-margin-bottom">
+                                <img src="https://live.staticflickr.com/65535/48570501941_e6c0d91424_z.jpg" alt="15' Ugly Stick" style="width:100%" class="w3-hover-opacity">
+                                <div class="w3-container w3-white">
+                                    <p><b>Zoe Bazos</b>
+                                    </p>
+                                    <p class="w3-opacity">Assistant tagger</p>
+
+
+                                </div>
+                            </div>
+                            <div class="w3-third w3-margin-bottom">
+                                <img src="https://live.staticflickr.com/65535/48570510046_75b155d24d_z.jpg" alt="Revival is key" style="width:100%" class="w3-hover-opacity">
+                                <div class="w3-container w3-white">
+                                    <p><b>Shane Oconner</b>
+                                    </p>
+                                    <p class="w3-opacity">Assistant tagger</p>
+
+
+                                </div>
+                            </div>
+                            <div class="w3-third w3-margin-bottom">
+                                <img src="https://live.staticflickr.com/65535/48523843597_01a76bbaf8_z.jpg" alt="Using a tail rope" style="width:100%" class="w3-hover-opacity">
+                                <div class="w3-container w3-white">
+                                    <p><b>Jarret Oconner</b>
+                                    </p>
+                                    <p class="w3-opacity">Assistant tagger</p>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <!--About -->
+            <div class="w3-white" id="About">
+
+                <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+                    <h2 class="w3-wide">About</h2>
+                    <p class="w3-opacity"><i>personal information</i>
+                    </p>
+                    <p class="w3-justify">My name is Lucas Bulczynski. I am a 17 year old student at Newton South High School in Massachusetts, and I have spent many years of my life on Nantucket. I have always
+                        been an avid fisherman, starting from scup jigging and squid fishing in the harbor all the way up to beach shark fishing and tuna plugging. And after years of fishing
+                        recreationally, I have decided this upcoming summer to strive to make a difference in the marine ecosystem of Nantucket. This summer I am setting out to advocate awareness
+                        to protect the sharks of Nantucket, to gather data and information on the health and habits of these sharks, and to prevent the future endangerment of the Carcharhinus
+                        plumbeus (Sandbar) Shark.</p>
+                    <div class="w3-row w3-padding-32">
+                        </p>
+                        <div class="w3-row w3-padding-32">
+
+                            <!-- The Contact Section -->
+                            <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="Contact">
+                                <h2 class="w3-wide w3-center">CONTACT</h2>
+                                <p class="w3-opacity w3-center"><i>Interested? Reach out to join or for any info!</i>
+                                </p>
+                                <div class="w3-row w3-padding-32">
+                                    <div class="w3-col m6 w3-large w3-margin-bottom">
+                                        <i class="fa fa-map-marker" style="width:30px"></i> Nantucket, Massachusetts
+                                        <br>
+                                        <i class="fa fa-phone" style="width:30px"></i> Phone: 617-678-4751
+                                        <br>
+                                        <i class="fa fa-envelope" style="width:30px"> </i> Email: nsppconnect@gmail.com
+                                        <br>
+                                    </div>
+
+
+                                    <!-- End Page Content -->
+                                </div>
+
+                                <!-- Image of location/map -->
+                                <img src="https://live.staticflickr.com/65535/47047136544_a0323dd81f_k.jpg" style="width:100%">
+
+                                <!-- Footer -->
+                                <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
+                                    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+                                    <i class="fa fa-instagram w3-hover-opacity"></i>
+                                    <i class="fa fa-snapchat w3-hover-opacity"></i>
+                                    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+                                    <i class="fa fa-twitter w3-hover-opacity"></i>
+                                    <i class="fa fa-linkedin w3-hover-opacity"></i>
+
+                                </footer>
+
+                                <script>
+                                    // Automatic Slideshow - change image every 4 seconds
+                                    var myIndex = 0;
+                                    carousel();
+
+                                    function carousel() {
+                                        var i;
+                                        var x = document.getElementsByClassName("mySlides");
+                                        for (i = 0; i < x.length; i++) {
+                                            x[i].style.display = "none";
+                                        }
+                                        myIndex++;
+                                        if (myIndex > x.length) {
+                                            myIndex = 1
+                                        }
+                                        x[myIndex - 1].style.display = "block";
+                                        setTimeout(carousel, 4000);
+                                    }
+
+                                    // Used to toggle the menu on small screens when clicking on the menu button
+
+                                    function myFunction() {
+                                        var x = document.getElementById("navDemo");
+                                        if (x.className.indexOf("w3-show") == -1) {
+                                            x.className += " w3-show";
+                                        } else {
+                                            x.className = x.className.replace(" w3-show", "");
+                                        }
+                                    }
+
+                                    // When the user clicks anywhere outside of the modal, close it
+                                    var modal = document.getElementById('ticketModal');
+                                    window.onclick = function(event) {
+                                        if (event.target == modal) {
+                                            modal.style.display = "none";
+                                        }
+                                    }
+                                </script>
+
+</body>
+
+</html>
